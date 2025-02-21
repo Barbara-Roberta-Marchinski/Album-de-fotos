@@ -12,5 +12,5 @@ Nessa viagem para o Chile a Mamãe pôde conhecer a famosa  Cordilheira Dos Ande
 {{% /pageinfo %}}
 
 
-<img src="../images/mamaechile.jpg" alt="Lindona (a da direita) com uma lhama no Chile " name="lhamaemamae" /><br>
+<img src="../images/mamaechile.jpg" alt="Lindona (a da direita) com uma lhama no Chile " class="lhamaemamae" /><br>
 
